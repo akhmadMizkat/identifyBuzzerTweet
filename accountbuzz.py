@@ -14,7 +14,7 @@ import os
 
 import account_classifier as ac
 
-st.set_page_config(page_title="App Name")
+st.set_page_config(page_title="TUTI - Tweet Buzzer Detection")
 
 # @st.experimental_singleton
 # def installff():
